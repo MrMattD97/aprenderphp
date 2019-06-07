@@ -2,5 +2,7 @@
 
 	echo "Olá Mundo 456!";
 
-	echo "Alo";
+	echo "Olá Mundo 123";
+
+	echo "Olá";
 ?>
